@@ -9,6 +9,10 @@ This repository distills practical SwiftUI best practices into actionable, conci
 - Developers reviewing or refactoring SwiftUI views and data flow
 - Anyone shipping performant lists, scrolling, sheets, and navigation in SwiftUI
 
+## See also my other skills:
+- [Swift Concurrency Expert](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill)
+- [Core Data Expert](https://github.com/AvdLee/Core-Data-Agent-Skill)
+
 ## How to Use This Skill
 
 ### Option A: Using skills.sh (recommended)
@@ -123,9 +127,6 @@ swiftui-expert-skill/
     view-structure.md - View extraction and composition patterns
 ```
 <!-- END REFERENCE STRUCTURE -->
-
-## Other skills
-- [Swift Concurrency Expert](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill)
 
 ## Contributing
 
