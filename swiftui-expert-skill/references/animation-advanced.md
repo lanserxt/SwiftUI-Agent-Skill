@@ -346,5 +346,6 @@ Circle()
 - Prefer over manual DispatchQueue timing
 
 ### Completion Handlers (iOS 17+)
-- Use `.transaction(value:)` for handlers that should refire
+- Use `withAnimation(.animation) { } completion: { }` for one-shot completion handlers
+- Use `.transaction(value:)` for handlers that should refire on every value change
 - Without `value:` parameter, completion only fires once
